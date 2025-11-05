@@ -56,16 +56,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-gave-a-talk-on-plug-and-play-method-for-bayesian-uncertainty-quantification-in-imaging-in-the-minisymposium-on-inverse-problems-at-the-european-conference-on-computational-optimization-2025-eucco-2025-conference-in-klagenfurt-austria",
+            },},{id: "news-i-gave-a-talk-on-plug-and-play-method-for-bayesian-uncertainty-quantification-in-imaging-in-the-minisymposium-on-inverse-problems-at-the-european-conference-on-computational-optimization-2025-eucco-2025-conference-in-klagenfurt-austria",
           title: 'I gave a talk on Plug-and-Play Method for Bayesian Uncertainty Quantification in Imaging...',
+          description: "",
+          section: "News",},{id: "news-i-gave-a-talk-on-a-unified-framework-for-lifted-training-and-inversion-approaches-at-the-4th-alps-adriatic-inverse-problems-workshop-aaip-2025-in-klagenfurt-austria",
+          title: 'I gave a talk on A Unified Framework for Lifted Training and Inversion...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
