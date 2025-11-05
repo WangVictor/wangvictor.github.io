@@ -15,7 +15,7 @@ footer_text: >
 keywords: xiaoyu wang, victor wang, xiaoyu wang math, victor wang math, edinburgh, heriot watt, maxwell institute, cambridge, cca, cia, cambridge image analysis, cambridge math, ucla, nyu, nyu cds, nyu courant, ucla math, inverse problems, optimization, optimisation, neural networks 
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🧩 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://WangVictor.github.io/mywebsite # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
